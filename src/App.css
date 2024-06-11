@@ -1,0 +1,27 @@
+.app-div{
+    padding: 80px 5%;
+}
+
+::-webkit-scrollbar {
+  width: 8px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1 !important;
+  /* border-radius: 10px !important; */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888 !important;
+  /* border-radius: 10px; */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555 !important;
+}
+
+/* Firefox */
+* {
+  /* scrollbar-width: thin; */
+  scrollbar-color:  #f1f1f1 !important;
+}

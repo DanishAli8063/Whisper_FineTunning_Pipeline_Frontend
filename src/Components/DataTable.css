@@ -1,0 +1,91 @@
+.tablehead{
+    background-color:#3F2A7E;
+}
+.table-contain{
+    border-radius: 6px !important;
+    /* background-color: aqua; */
+}
+.table-heading{
+    color: white !important;
+    font-size: 10pt !important;
+    font-weight: 500 !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+   .filter-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px; 
+  }
+  
+  .date-picker {
+    width: 218px !important;
+  }
+  
+  .speaker-select {
+    width: 218px !important;
+   
+  }
+  .textFieldStyle {
+    height: 100%;
+    width: 100%;
+  }
+  .row-width{
+    height: 100%;
+    width: 100%;
+  }
+  
+
+
+  .textFieldStyle .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline{
+    border-color: #3F2A7E;
+  }
+  .textFieldStyle .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline{
+    border-color:#3F2A7E;
+  }
+  .textFieldStyle .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: #3F2A7E;
+  }
+
+
+  
+  .date-picker .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline{
+    border-color: #3F2A7E;
+  }
+  .date-picker .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline{
+    border-color:#3F2A7E;
+  }
+  .date-picker .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: #3F2A7E;
+  }
+  .date-picker .MuiInputLabel-root.Mui-focused{
+    color: #3F2A7E !important;
+  }
+  .date-picker .MuiInputLabel-root{
+    color: #3F2A7E !important;
+  }
+  ::-webkit-calendar-picker-indicator{
+    font-size: 14pt;
+    cursor: pointer;
+  }
+
+
+
+
+
+  .speaker-select .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline{
+    border-color: #3F2A7E;
+  }
+  .speaker-select .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline{
+    border-color:#3F2A7E;
+  }
+  .speaker-select .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: #3F2A7E;
+  }
+  .speaker-select .MuiInputLabel-root.Mui-focused{
+    color: #3F2A7E !important;
+  }
+  .speaker-select .MuiInputLabel-root{
+    color: #3F2A7E !important;
+  }

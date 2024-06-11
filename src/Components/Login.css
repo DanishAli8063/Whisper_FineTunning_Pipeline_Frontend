@@ -1,0 +1,39 @@
+.login-textfield .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline{
+    border-color: #3F2A7E !important;
+  }
+  .login-textfield .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline{
+    border-color:#3F2A7E !important;
+  }
+  .login-textfield .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: #3F2A7E !important;
+  }
+  .login-textfield .MuiInputLabel-root.Mui-focused{
+    color: #3F2A7E !important;
+  }
+  .login-textfield .MuiInputLabel-root{
+    color: #3F2A7E !important;
+  }
+  .login-textfield{
+    width: 300px !important;
+  }
+
+  .login-button{
+    width: 300px !important;
+    background-color: #3F2A7E !important;
+  }
+
+  /* Center the login page */
+.main-container {
+    /* background-color: aqua; */
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    /* height: 100vh; */
+  }
+  
+  .login-box {
+    width: 30%;
+    /* background-color: beige; */
+  }
+  
